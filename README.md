@@ -24,6 +24,20 @@ GOOGLE DAILOGE FLOW
 
 
 ## Screenshots
-
+<h3>Home page</h3>
+<img src="home.jpeg">
+<br>
+<h3>sign up and sign in </h3>
+<img src="signup.jpeg>
+<img src="signin.jpeg>
+<br>
+<h3>mediserve (medical search engine) </h3>
+<img src="medical_searchengine.jpeg">
+<br>
+<h3>appointment booking</h3>
+<img src="appointment.jpeg">
+<br>
+<h3>Feedback</h3>
+<img src="contact_us.jpeg">
 
 
