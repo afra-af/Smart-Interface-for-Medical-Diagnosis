@@ -15,7 +15,7 @@ This project's goal is to concentrate on the idea of a text-to-text diagnosis in
 
 ## Tech Stack
 
-**FRONTEND:** HTML,CSS,JAVASCRIPT,BOOTSTRAP,JQUERY
+**FRONTEND:** HTML, CSS, JAVASCRIPT,BOOTSTRAP, JQUERY
 
 **BACKEND:**  FIREBASE
 
@@ -25,20 +25,34 @@ GOOGLE DAILOGE FLOW
 <h2>Screenshots/h2>
   <br>
   <h3>HOME PAGE</h3>
-![home](https://user-images.githubusercontent.com/81957946/217464150-b8cfce06-8744-45b4-b123-45aed6475ae2.jpeg)
+
+![Screenshot (335)](https://github.com/afra-af/Smart-Interface-for-Medical-Diagnosis/assets/81957946/ab92dd87-a533-46d0-8b70-62de5656d232)
+
   <br>
   <h3>SIGN UP</h3>
-![signup](https://user-images.githubusercontent.com/81957946/217464170-da7d5a43-4fcc-41dd-86aa-b296c909e3ff.jpeg)
+
+
+![Screenshot (334)](https://github.com/afra-af/Smart-Interface-for-Medical-Diagnosis/assets/81957946/fc03c373-29de-4fbc-ada1-7eccaf4572ea)
+
   <br>
   <h3>SIGN IN</h3>
-![signin](https://user-images.githubusercontent.com/81957946/217464179-def5dd53-4603-4b3c-b456-5ea93c39d8c8.jpeg)
+
+![Screenshot (336)](https://github.com/afra-af/Smart-Interface-for-Medical-Diagnosis/assets/81957946/d373e5e3-63fe-476f-abb7-70766c29d3c5)
+
+
   <br>
   <h3>MEDICAL SEARCH ENGINE</h3>
-![medical_searchengine](https://user-images.githubusercontent.com/81957946/217464195-d98225f9-28ee-4ce2-8964-ccac43a17ec7.jpeg)
+
+![Screenshot (337)](https://github.com/afra-af/Smart-Interface-for-Medical-Diagnosis/assets/81957946/b4402212-524f-4292-8b08-19ed7111c4e8)
+
   <br>
   <h3>APPOINTMENT BOOKING</h3>
-![appointment](https://user-images.githubusercontent.com/81957946/217464209-a793a9ee-bf1d-4f26-a442-60c0b26ad73c.jpeg)
+
+![Screenshot (338)](https://github.com/afra-af/Smart-Interface-for-Medical-Diagnosis/assets/81957946/d60c914a-b7e2-49fb-9710-54f6e53707f0)
+
+
   <br>
   <h3>CONTACT US OR FEEDBACK FORM</h3>
-![contact_us](https://user-images.githubusercontent.com/81957946/217464219-94fcfb7d-8aa3-4f9f-90a4-b3597da167a9.jpeg)
 
+
+![Screenshot (339)](https://github.com/afra-af/Smart-Interface-for-Medical-Diagnosis/assets/81957946/7dfc28b0-42dc-4934-970d-67caaecdcac5)
